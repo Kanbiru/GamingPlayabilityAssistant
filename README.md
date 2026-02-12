@@ -1,6 +1,9 @@
 # Gaming Playability Assistant
 **Intelligenter Assistent zur Bewertung der PC-Spielbarkeit**
 
+## Hinweis
+Das Projekt beinhaltet dekodierte Skripte, da das Projekt ohne Backup versehentlich gelöscht wurde. Die Inhalte der Skripte sind alles was wiederhergestellt worden konnte.
+
 ## Beschreibung
 Das Gaming Playability Assistant analysiert, ob ein PC-Spiel auf deiner Hardware flüssig läuft und empfiehlt optimale Grafikeinstellungen. Es kombiniert:
 
